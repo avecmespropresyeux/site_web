@@ -1,0 +1,65 @@
+# Site
+name: "Avec mes propres yeux"
+title: "Avec mes propres yeux"
+description: "Juste la vision d'une fana d'éléphants sur le monde."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: /site_web
+google_analytics: 'G-9QYMW394J0'
+disqus: 'avecmespropresyeux'
+mailchimp-list: 'https://avecmespropresyeux.us2.list-manage.com/subscribe/post?u=04234bd3af06bf4b44180ffee&amp;id=b9fb2f4a7d'
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  yowie:
+    name: Yowie
+    display_name: Yowie
+    email: yowie@avecmespropresyeux.com
+    avatar: 'assets/images/elephant-avatar.png'
+    # gravatar: b1cc14991db7a456fcd761680bbc8f81
+    web: https://www.avecmespropresyeux.com
+    twitter: https://twitter.com/yowie_ampy
+    description: "Aime les éléphants, regarder des séries TV, manger, voyager quand c'est possible (hors pandémie) et surtout rigoler avec les gens."
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-4171510272858053"
+# reste à changer l'ad slot
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
