@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: https://avecmespropresyeux.com
 google_analytics: 'UA-181944680-1'
 disqus: 'avecmespropresyeux'
-mailchimp-list: 'https://avecmespropresyeux.us2.list-manage.com/subscribe/post?u=04234bd3af06bf4b44180ffee&amp;id=b9fb2f4a7d'
+# mailchimp-list: 'https://avecmespropresyeux.us2.list-manage.com/subscribe/post?u=04234bd3af06bf4b44180ffee&amp;id=b9fb2f4a7d'
 include: ["_pages"]
 permalink: /:title/
 
