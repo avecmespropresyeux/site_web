@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Test Cron job 2"
+title:  "Test Cron job"
 author: yowie
 categories: [ test ]
-image: assets/images/2020-holidate.jpg
+# image: assets/images/2020-holidate.jpg
 # description: "My review of Inception movie. Acting, plot and something else in this short description."
 ---
 
