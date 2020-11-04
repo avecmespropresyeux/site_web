@@ -11,6 +11,8 @@ hidden: true
 rating: 5
 ---
 
+EDIT du 04/11/2020 : Dominique Besnehard vient d'annoncer dans l'émission "6 à la maison" qu'il y aura un long métrage (probablement télévisuel) qui poursuivra la série. YOUPIIIIIIIII !
+
 Attention, ce texte contient des spoilers sur la série.
 
 Ceux qui me connaissent savent que je suis une snob des programmes français. En général, je trouve que les séries françaises ne sont pas vraiment à mon goût. J'ai toujours eu une tendance à regarder des séries américaines. Je me suis surprise à regarder des séries anglaises et aussi canadiennes. Par contre, l'envie de regarder quelque chose de Français, ça ne me bottait pas plus que ça... jusqu'au jour où on m'a recommandé de regarder 10 pour cent, que ça devrait me plaire, que ça correspond à mes goûts.
