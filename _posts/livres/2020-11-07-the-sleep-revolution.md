@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "The Sleep Revolution"
+title:  "La révolution du sommeil - Arianna Huffington"
 author: yowie
 categories: [ livres ]
-tags: [ the sleep revolution, huffington , dormir ]
-image: assets/images/2020-dix-pour-cent.jpg
+tags: [ the sleep revolution, huffington , dormir , revolution du sommeil]
+image: assets/images/2020-the-sleep-revolution.jpg
 description: "Mon avis sur le livre consacré au sommeil par Arianna Huffington."
 rating: 3
 ---
