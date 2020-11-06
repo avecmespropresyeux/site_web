@@ -15,7 +15,7 @@ J'ai donc décidé de faire quelque chose à ce sujet. Au début du mois de sept
 
 J'ai regardé le documentaire d'Arte sur le sommeil (<a href="https://www.arte.tv/fr/videos/083968-000-A/dormir-a-tout-prix/" target="_blank">Dormir à tout prix</a>) qui m'a confirmé ce qu'il fallait faire: bannir les écrans de la chambre avant de dormir, avoir un rituel de couché (comme les enfants), se donner assez de temps pour dormir.
 
-J'ai de plus entendu un podcast où il y avait Arianna Huffington invitée qui parlait de son livre et qui disait que la longévité du succès passe par 7 à 8h de sommeil par nuit, que Jeff Bezos prend cela au sérieux. J'ai donc été intriguée par son livre 'The Sleep Revolution' que j'ai donc décidé le lire.
+J'ai de plus entendu un podcast où il y avait Arianna Huffington invitée qui parlait de son livre et qui disait que la longévité du succès passe par 7 à 8h de sommeil par nuit, que Jeff Bezos prend cela au sérieux. J'ai donc été intriguée par son livre 'La révolution du sommeil' que j'ai donc décidé de lire.
 
 Le livre est un condensé d'articles scientifiques avec des références très poussées et de témoignages sur les effets du sommeil. On y apprend que nos performances sont meilleures quand nous sommes reposés et que l'on doit changer notre façon de penser par rapport au manque de sommeil. Non, ce n'est pas cool de ne pas dormir, il n'y a pas à s'en vanter. C'est l'équivalent d'être bourré. Qui nous laisserait prendre des décisions avec nos capacités amoindries ? C'est bête.
 
