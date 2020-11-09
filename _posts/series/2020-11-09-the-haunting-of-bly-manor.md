@@ -5,6 +5,8 @@ author: yowie
 categories: [ series tv, netflix ]
 tags: [netflix, bly manor ]
 image: assets/images/2020-bly-manor.jpg
+featured: true
+hidden: true
 rating: 5
 ---
 

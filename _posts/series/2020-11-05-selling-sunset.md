@@ -5,8 +5,6 @@ author: yowie
 categories: [ series tv, netflix ]
 tags: [netflix, selling sunset, immobilier ]
 image: assets/images/2020-selling-sunset.jpg
-featured: true
-hidden: true
 rating: 5
 ---
 
