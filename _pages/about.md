@@ -1,8 +1,6 @@
 ---
-layout: page
-title: A propos de
-permalink: /about
-comments: false
+title: "A propos"
+permalink: /about/
 ---
-Bonjour,
-Moi c'est Yowie. J'aime les éléphants, regarder des séries et en parler, manger avec les amis (quand on peut les voir... pas vraiment possible en ces temps de covid), voyager. Je suis une personne qui vit dans ce monde quoi.
+
+A propos de moi.
