@@ -3,4 +3,4 @@ title: "A propos"
 permalink: /about/
 ---
 
-A propos de moi.
+La vision d'un être humain parmi quelques milliards

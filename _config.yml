@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "fr-FR"
 title                    : "Avec mes propres yeux"
 title_separator          : "-"
-subtitle                 : "La vision d'un être humain parmi quelques milliards sur le monde." # site tagline that appears below site title in masthead
+subtitle                 : "La vision d'un être humain parmi quelques milliards." # site tagline that appears below site title in masthead
 name                     : "Avec mes propres yeux"
 description              : "Un site web sur ma vision du monde."
 url                      : "https://avecmespropresyeux.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
