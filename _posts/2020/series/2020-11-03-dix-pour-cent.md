@@ -6,7 +6,7 @@ categories:
 tags:
   - netflix
   - dix pour cent
-  - call my agentate
+  - call my agent
 header:
   teaser: "assets/images/2020-dix-pour-cent.jpg"
 ---
