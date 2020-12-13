@@ -31,4 +31,6 @@ Est-ce qu'elle est douée et qu'elle a besoin de se doper pour être meilleure ?
 
 Au 2e épisode, elle se fait adopter quand elle est ado et quitte l'orphelinat. Puis on voit ce qu'il y a dans la bande-annonce, elle participe à un tournois d'échec et le gagne.
 
-## Pour qui ? Pour quel genre d'humeur ?
+Bon, j'ai fini. Je dois dire que je ne comprends pas tout l'engouement autour de cette série. C'était sympa mais je ne comprends pas pourquoi autant de gens autour de moi en ont parlé. C'est intéressant à regarder mais je trouve que les personnages ne sont pas assez développés. La partie en Russie, je comprends pas trop l'intérêt de lui donner un garde du corps alors qu'elle n'a pas vraiment l'air en danger.
+
+Bon sinon, ça se regarde, c'est plutôt bien fait, j'aime bien ce qu'il se passe mais si je n'avais pas regardé, ça aurait été pareil. On n'apprend pas grand chose des échecs sauf qu'il faut beaucoup apprendre et prévoir (mais aussi être doué ou sous drogue). D'ailleurs, je n'ai pas vu beaucoup de parallèle entre le jeu et l'histoire à part que ça leur permet de faire des gros plans des visages des acteurs, lol.
